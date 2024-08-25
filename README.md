@@ -13,6 +13,7 @@ https://www.docker.elastic.co/
 > Para instalar docker-compose. Elegir version en https://github.com/docker/compose/releases
 
 ```
+# se puede mejorar este acceso configurando clave pública y privada
 sudo curl --proxy "http://<PROXY_SI_HACE_FALTA>" -L https://github.com/docker/compose/releases/download/1.29.1/docker-compose-Linux-x86_64 -o /usr/local/bin/docker-compose
 ```
 
